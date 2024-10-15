@@ -1,0 +1,26 @@
+.contactList {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 20px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.contactListItem {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	padding: 10px;
+}
+
+.contactDetails {
+	display: flex;
+	flex-direction: column;
+}
+
+.deleteButton {
+	margin-left: 10px;
+}

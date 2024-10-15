@@ -1,0 +1,11 @@
+.container {
+	max-width: 1400px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.headerTitle {
+	color: #007bff;
+}
